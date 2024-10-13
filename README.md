@@ -43,3 +43,11 @@ In case of missing parameters or AWS errors, comprehensive messages will guide t
 
 
 Stores the retrieved secret in a buffer for use in subsequent test steps.
+
+youtube links- 
+TOSCA Custom Module (SET) -  Retrieve Secrets From AWS Secret Manager – Overview & Setup (Video#1)
+https://youtu.be/vKotBGrNSOk
+
+
+TOSCA Custom Module (SET)- Retrieve Secrets From AWS Secret Manager –  Implementation (Video#2)
+https://youtu.be/pqdh8NCoUBo
