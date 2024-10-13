@@ -13,7 +13,7 @@ The code in this repo / SET dll, is created on
   - Windows
     
 **How to use this SET/Module ?**
-  - [x]  Download the AWS_Secret_Manager_getSecret module here.
+  - [x]  Download the AWS_Secret_Manager_getSecret module here.  [AWS_Secret_Manager_getSecret.zip](https://github.com/user-attachments/files/17355596/AWS_Secret_Manager_getSecret.zip)
   - [x]  Copy the .dll and .xml files to the Tosca TBox directory (typically C:\Program Files (x86)\TRICENTIS\Tosca Testsuite\TBox).
   - [x]  Restart Tosca Commander.
   - [x]  Import the module from the provided .tsu file.
